@@ -15,10 +15,14 @@ Numéro RNA : W9R1003851 <br>
 
 ## Contacts :
 
-<img src="local/images/al.png" width="200">
+<div class="row">
+  <div class="column">
+    <img src="local/images/al.png" width="150">
+    <p align="center">almoutazar.saandi[a]gmail[.]com</p>
+  </div>
+  <div class="column">
+    <img src="local/images/na.png" width="150">
+    <p align="center">nassabia.saandi[a]gmail[.]com</p>
+  </div>
+</div>
 
-almoutazar.saandi[a]gmail[.]com <br>
-
-<img src="local/images/na.png" width="200">
-
-nassabia.saandi[a]gmail[.]com
