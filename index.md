@@ -12,6 +12,6 @@ _Site en construction ..._
 Association Thechnologie Numérique et Éducation<br>
 Localisation : La Réunion<br>
 Numéro RNA : W9R1003851<br>
-Emails :<br>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="dark" data-vanity="almoutazar-saandi-53bb9996"><a class="LI-simple-link" href='https://fr.linkedin.com/in/almoutazar-saandi-53bb9996?trk=profile-badge'>Almoutazar SAANDI</a></div>
 almoutazar.saandi(a)gmail(.)com <br>
 nassabiasaandi(a)gmail(.)com
