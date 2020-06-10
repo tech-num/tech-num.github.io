@@ -3,7 +3,8 @@ layout: default
 title: Technologie Numérique et Education
 ---
 
-<iframe width="400" src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300"  src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Concours MI120 2019 :
 
