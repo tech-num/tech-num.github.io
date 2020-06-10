@@ -18,11 +18,11 @@ Numéro RNA : W9R1003851 <br>
 <div class="row">
   <div align="center" class="column">
     <img align="center" src="local/images/al.png" width="150">
-    <p style="font-size:8px"><u>almoutazar.saandi(a)gmail(.)com</u></p>
+    <p style="font-size:10px"><u>almoutazar.saandi(a)gmail(.)com</u></p>
   </div>
   <div class="column">
     <img align="center" src="local/images/na.png" width="150">
-    <p style="font-size:8px"><u>nassabia.saandi(a)gmail(.)com</u></p>
+    <p style="font-size:10px"><u>nassabia.saandi(a)gmail(.)com</u></p>
   </div>
 </div>
 
