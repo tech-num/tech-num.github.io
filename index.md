@@ -1,4 +1,4 @@
-nassabia.saandi@gmail.com---
+---
 layout: default
 title: Technologie Numérique et Education
 ---
