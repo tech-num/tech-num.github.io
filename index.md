@@ -1,22 +1,11 @@
 ---
 layout: default
 title: Technologie Numérique et Education
-output:
-  html_document:
-    css: /assets/css/style.scss
 ---
 
 _Site en construction ..._
 
-
-<div class="row">
-  <div class="column">
-    <img src="local/images/0.jpg" alt="Snow" width="400">
-  </div>
-  <div class="column">
-    <img src="local/images/5.jpg" alt="Forest" width="400">
-  </div>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contacts :
 m
