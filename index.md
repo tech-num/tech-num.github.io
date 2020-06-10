@@ -24,7 +24,7 @@ Numéro RNA : W9R1003851 <br>
 ## Contacts :
 
 <div class="row">
-  <div align="center" class="column">
+  <div class="column">
     <img align="center" src="local/images/al.png" width="150">
     <p style="font-size:12px"><u>almoutazar.saandi(a)gmail(.)com</u></p>
   </div>
