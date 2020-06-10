@@ -10,7 +10,7 @@ title: Technologie Numérique et Education
 
 <img src="local/images/first.png" width="50">
 
-Lauréat du premier prix du jury au concours "Mon innovation en 120 secondes" édition 2019 organisé par l'AUF (Agence Universitaire de la Francophonie)
+Lauréat du premier prix du jury au concours **Mon innovation en 120 secondes** édition 2019 organisé par l'AUF (Agence Universitaire de la Francophonie)
 
 <img src="local/images/mi120.png" width="300">
 
