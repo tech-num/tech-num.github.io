@@ -9,5 +9,9 @@ _Site en construction ..._
 
 ## Contacts :
 
+Association Thechnologie Numérique et Éducation<br>
+Localisation : La Réunion<br>
+Numéro RNA : W9R1003851<br>
+Emails :<br>
 almoutazar.saandi(a)gmail(.)com <br>
 nassabiasaandi(a)gmail(.)com
