@@ -13,10 +13,10 @@ Lauréat du premier prix du jury au concours "Mon innovation en 120 secondes" é
 
 <div class="row">
   <div align="center" class="column">
-    <img align="center" src="local/images/mi120.png">
+    <img align="center" src="local/images/mi120.png" width="360">
   </div>
   <div class="column">
-<iframe src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="360" src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
