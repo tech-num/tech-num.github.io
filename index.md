@@ -7,7 +7,20 @@ title: Technologie Numérique et Education
 
 <img src="local/images/plot.jpg" width="100">
 
+## Concours :
+
+Lauréat du premier prix du jury au concours "Mon innovation en 120 secondes" édition 2019 organisé par l'AUF (Agence Universitaire de la Francophonie)
+
+<div class="row">
+  <div align="center" class="column">
+    <img align="center" src="local/images/mi120.png" width="560">
+  </div>
+  <div class="column">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
+
 
 ## Association loi 1901:
 
