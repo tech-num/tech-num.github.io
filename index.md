@@ -13,12 +13,9 @@ _Site en construction ..._
   <div class="column">
     <img src="local/images/5.jpg" alt="Forest" width="400">
   </div>
-  <div class="column">
-    <img src="local/images/8.jpg" alt="Mountains" width="400">
-  </div>
 </div>
 
 ## Contacts :
-
+m
 almoutazar.saandi(a)gmail(.)com <br>
 nassabiasaandi(a)gmail(.)com
