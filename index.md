@@ -5,9 +5,18 @@ title: Technologie Numérique et Education
 
 _Site en construction ..._
 
-<div style="text-align:left"><img src="local/images/0.jpg" width="400"></div>
-<div style="text-align:left"><img src="local/images/1.jpg" width="400"></div>
 
+<div class="row">
+  <div class="column">
+    <img src="local/images/0.jpg" alt="Snow" width="400">
+  </div>
+  <div class="column">
+    <img src="local/images/5.jpg" alt="Forest" width="400">
+  </div>
+  <div class="column">
+    <img src="local/images/8.jpg" alt="Mountains" width="400">
+  </div>
+</div>
 
 ## Contacts :
 
