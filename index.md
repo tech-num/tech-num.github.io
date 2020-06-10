@@ -7,11 +7,11 @@ title: Technologie Numérique et Education
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Association :
+## Association loi 1901:
 
-Thechnologie Numérique et Éducation<br>
-Localisation : La Réunion<br>
-Numéro RNA : W9R1003851<br>
+Technologie Numérique et Éducation <br>
+Localisation : La Réunion (Saint-Denis) <br>
+Numéro RNA : W9R1003851 <br>
 
 ## Contacts :
 
