@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Technologie Numérique et Education
+output:
+  html_document:
+    css: /assets/css/style.scss
 ---
 
 _Site en construction ..._
