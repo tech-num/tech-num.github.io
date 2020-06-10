@@ -3,18 +3,14 @@ layout: default
 title: Technologie Numérique et Education
 ---
 
-# Site en construction : <br>
+<img align="center" src="local/images/mi120.png" width="300">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="local/images/plot.jpg" width="100">
-
-## Prix Concours MI120 2019 :
+## Concours MI120 2019 :
 
 <img src="local/images/first.png" width="50">
 
 Lauréat du premier prix du jury au concours "Mon innovation en 120 secondes" édition 2019 organisé par l'AUF (Agence Universitaire de la Francophonie)
-
-<img align="center" src="local/images/mi120.png" width="300">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NYQ_1Bn3K4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Association loi 1901:
 
@@ -35,3 +31,6 @@ Numéro RNA : W9R1003851 <br>
   </div>
 </div>
 
+# Site en construction ... : <br>
+
+<img src="local/images/plot.jpg" width="100">
