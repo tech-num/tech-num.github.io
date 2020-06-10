@@ -17,10 +17,10 @@ Numéro RNA : W9R1003851 <br>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="dark" data-vanity="almoutazar-saandi-53bb9996"><a class="LI-simple-link" href='https://fr.linkedin.com/in/almoutazar-saandi-53bb9996?trk=profile-badge'>Almoutazar SAANDI</a></div>
 
-<img src="local/images/al.jpg" width="100">
+<img src="local/images/al.png" width="100">
 
 almoutazar.saandi[a]gmail[.]com <br>
 
-<img src="local/images/na.jpg" width="100">
+<img src="local/images/na.png" width="100">
 
 nassabia.saandi[a]gmail[.]com
