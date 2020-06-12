@@ -24,7 +24,7 @@ Numéro RNA : W9R1003851 <br>
 ## Contacts :
 
 <div class="row">
-  <div class="column">
+  <div align="center" class="column">
     <img align="center" src="local/images/na.png" width="130">
     <p align="center" style="font-size:12px"><b>Présidente</b></p>
     <p align="center" style="font-size:12px"><u>nassabia.saandi(a)gmail(.)com</u></p>
