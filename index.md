@@ -27,10 +27,12 @@ Numéro RNA : W9R1003851 <br>
   <div align="center" class="column">
     <img align="center" src="local/images/na.png" width="100">
     <p align="center" style="font-size:12px"><b>Présidente</b></p>
+    <p align="center" style="font-size:12px"><b>Enseignante à l'académie de Mayotte</b></p>
   </div>  
   <div align="center" class="column">
     <img align="center" src="local/images/al.png" width="100">
     <p align="center" style="font-size:12px"><b>Trésorier/Secrétaire G</b></p>
+    <p align="center" style="font-size:12px"><b>Ingénieur en Informatique</b></p>
   </div>
 </div>
 
